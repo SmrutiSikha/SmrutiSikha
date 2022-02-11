@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 😊 Willing to contribute in open source development projects.
 - 👍 Looking for opportunities to join as a full time Software Developer.
 - 💬 Ask me about anything here
-- 📫 How to reach me: panigrahismrutsikha@gmail.com
+- 📫 How to reach me: panigrahismrutisikha@gmail.com
 - 😄 Pronouns: She / Her
 <br>
 
