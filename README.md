@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br>
 
 
-- 🔭 I’m currently pursuing BTECH in Electrical Engineering at NIT Rourkela
+- 🔭 I completed my BTECH in Electrical Engineering at NIT Rourkela
 - 👨🏽‍💻 Currently working, learning and growing my skillset in Web Development, deep learning, data structures and algorithms.
 - 🤝 Open for collaborations in web development projects.
 - 😊 Willing to contribute in open source development projects.
